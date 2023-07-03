@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gianmelacode/Preentrega1Mela/static/css/main.22b32d0b.css",
+    "main.js": "/gianmelacode/Preentrega1Mela/static/js/main.1c18dd8e.js",
+    "static/js/787.dc30c41c.chunk.js": "/gianmelacode/Preentrega1Mela/static/js/787.dc30c41c.chunk.js",
+    "static/media/foto.jpg": "/gianmelacode/Preentrega1Mela/static/media/foto.81d6e6007c4844f11472.jpg",
+    "index.html": "/gianmelacode/Preentrega1Mela/index.html",
+    "main.22b32d0b.css.map": "/gianmelacode/Preentrega1Mela/static/css/main.22b32d0b.css.map",
+    "main.1c18dd8e.js.map": "/gianmelacode/Preentrega1Mela/static/js/main.1c18dd8e.js.map",
+    "787.dc30c41c.chunk.js.map": "/gianmelacode/Preentrega1Mela/static/js/787.dc30c41c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22b32d0b.css",
+    "static/js/main.1c18dd8e.js"
+  ]
+}
