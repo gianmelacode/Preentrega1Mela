@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+.contador {
+  margin-left: 10px;
+}
+.greeting {
+  color: #61dafb;
+}
+h3 {
+  margin-top: 50px;
+  color: rgb(193, 252, 255);
+}
+.nav-link {
+  color: rgb(145, 238, 249);
+}
